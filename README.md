@@ -27,7 +27,7 @@
 
 ## 📸 Screenshots
 
-![Giga Chat Dashboard](https://youtu.be/9-e4kJ1uVPs)  
+![Giga Chat Dashboard]((https://img.youtube.com/vi/9-e4kJ1uVPs)](https://www.youtube.com/watch?v=9-e4kJ1uVPs)
 *Dashboard with ongoing group chat and active video call.*
 
 
